@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25622
     wikipedia: http://en.wikipedia.org/wiki/%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23158#Souvenirs-de-Madame-Louise--lisabeth-Vig-e-Lebrun-Tome-troisi-me
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
