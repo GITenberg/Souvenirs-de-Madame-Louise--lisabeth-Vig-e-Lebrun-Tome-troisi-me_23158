@@ -1,0 +1,33 @@
+_repo: Souvenirs-de-Madame-Louise--lisabeth-Vig-e-Lebrun-Tome-troisi-me_23158
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vigée-Lebrun, Louise-Elisabeth
+    aliases:
+    - Lebrun, Marie Louise Elisabeth Vigée
+    - Vigée-Lebrun, Marie Louise Elisabeth
+    - Vigee-Lebrun, Louise-Elisabeth
+    birthdate: 1755
+    deathdate: 1842
+    gutenberg_agent_id: '25622'
+    url: http://www.gutenberg.org/2009/agents/25622
+    wikipedia: http://en.wikipedia.org/wiki/%C3%89lisabeth-Louise_Vig%C3%A9e-Le_Brun
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23158'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vigée-Lebrun, Louise-Elisabeth, 1755-1842'
+- !lcc 'ND'
+- !lcsh 'Painters -- France -- Biography'
+title: Souvenirs de Madame Louise-Élisabeth Vigée-Lebrun, Tome troisième
+url: http://www.gutenberg.org/ebooks/23158
